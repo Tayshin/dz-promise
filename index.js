@@ -6,6 +6,7 @@
     //No module loader
     (global.dzPromise = factory());
 }(this, (function() { 
+    
     var PENDING = 0;
     var FULFILLED = 1;
     var REJECTED = 2;

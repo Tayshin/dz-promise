@@ -6,4 +6,4 @@ implementing Promise in a simple way
 
 参考了这篇[文章](https://www.promisejs.org/implementing/)
 
-test.html 测试实例来自MDN
+test.html 测试实例来自MDN.
